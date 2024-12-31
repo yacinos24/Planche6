@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1735080639 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex1\main.cpp
+	<iostream>
+	"Vecteur2D.h"
+	"Vecteur3D.h"
+
+1735080770 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex1\include\vecteur2d.h
+
+1734908954 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex1\src\vecteur2d.cpp
+	"Vecteur2D.h"
+	<iostream>
+
+1734909400 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex1\src\vecteur3d.cpp
+	"Vecteur3D.h"
+	<iostream>
+
+1735080770 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex1\include\vecteur3d.h
+	<Vecteur2D.h>
+
