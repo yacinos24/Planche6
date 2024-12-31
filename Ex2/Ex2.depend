@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1735666947 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\fini\ex2\src\robot.cpp
+	"Robot.h"
+	<iostream>
+	<string>
+
+1735666947 c:\users\yassine\desktop\cpi2s1\c++\tp6\fini\ex2\include\robot.h
+	<string>
+
+1735666947 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\fini\ex2\main.cpp
+	"RobotChasseur.h"
+	<vector>
+	<iostream>
+
+1735667023 c:\users\yassine\desktop\cpi2s1\c++\tp6\fini\ex2\include\robotchasseur.h
+	<Robot.h>
+
+1735667198 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\fini\ex2\src\robotchasseur.cpp
+	"Robot.h"
+	"RobotChasseur.h"
+	<math.h>
+	<iostream>
+
