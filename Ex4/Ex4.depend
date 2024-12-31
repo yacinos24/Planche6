@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1735664785 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex4\main.cpp
+	"Pion.h"
+	"Roi.h"
+	<vector>
+	<iostream>
+
+1735663481 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex4\src\piece.cpp
+	"Piece.h"
+	<string>
+	<iostream>
+
+1735662770 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex4\include\piece.h
+	<string>
+
+1735664575 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex4\src\pion.cpp
+	"Pion.h"
+	"Piece.h"
+	<iostream>
+	<string>
+
+1735663576 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex4\include\pion.h
+	"Piece.h"
+	<string>
+
+1735664593 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex4\src\roi.cpp
+	"Roi.h"
+	"Piece.h"
+	<string>
+	<iostream>
+
+1735664575 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex4\include\roi.h
+	"Piece.h"
+	<string>
+	<Piece.h>
+
