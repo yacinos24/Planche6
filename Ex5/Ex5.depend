@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1735666531 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\main.cpp
+	<iostream>
+	<vector>
+	"Constractuel.h"
+	<iostream>
+
+1735665418 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\src\personne.cpp
+	"Personne.h"
+
+1735665213 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\include\personne.h
+	<string>
+
+1735665448 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\src\etudiant.cpp
+	"Etudiant.h"
+
+1735665418 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\include\etudiant.h
+	<Personne.h>
+
+1735665569 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\src\enseignant.cpp
+	"Enseignant.h"
+
+1735665569 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\include\enseignant.h
+	<Personne.h>
+
+1735666435 source:c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\src\constractuel.cpp
+	"Constractuel.h"
+	"Enseignant.h"
+	"Etudiant.h"
+
+1735666153 c:\users\yassine\desktop\cpi2s1\c++\tp6\ex5\include\constractuel.h
+	"Enseignant.h"
+	"Etudiant.h"
+
